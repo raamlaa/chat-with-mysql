@@ -10,7 +10,7 @@
 <h3>Features</h3>
 <ul>
   <li>
-    Natural Language Processing: Uses GPT-4 to interpret and respond to user queries in natural language.
+    Natural Language Processing: Uses MistralAI to interpret and respond to user queries in natural language.
   </li>
   <li>
     SQL Query Generation: Dynamically generates SQL queries based on the user's natural language input.
