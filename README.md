@@ -1,4 +1,4 @@
-<h1 align="left">Chat With a MySQL Database Using Python and LangChain</h1>
+<h1 align="left">Chat With a MySQL Database Using Python and LangChain/MistralAI </h1>
 
 ###
 
